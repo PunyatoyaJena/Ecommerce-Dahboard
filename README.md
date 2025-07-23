@@ -11,6 +11,8 @@ The sales data is stored in CSV format, split across two files. The following st
 Extract the Data: The sales data was extracted from the provided CSV files.
 Transform the Data: Power BI's Power Query editor was utilized to transform and clean the raw data, making it suitable for analysis.
 Load the Data in Power BI: The transformed data was loaded into Power BI for visualization and analysis.
+# Data Visualization
+https://github.com/PunyatoyaJena/Ecommerce-Dahboard/blob/main/REPORT%20%20ECOMMERCE%20PBI%20DASHBOARD.png
 # Project Learnings
 Interactive Dashboard Creation: Created an interactive dashboard that allows users to explore online sales data easily.
 Advanced Visualization Techniques: Implemented complex parameters, filters, and slicers to enable dynamic and detailed data exploration.
