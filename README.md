@@ -12,7 +12,7 @@ Extract the Data: The sales data was extracted from the provided CSV files.
 Transform the Data: Power BI's Power Query editor was utilized to transform and clean the raw data, making it suitable for analysis.
 Load the Data in Power BI: The transformed data was loaded into Power BI for visualization and analysis.
 # Data Visualization
-<img width="1259" height="707" alt="Image" src="https://github.com/user-attachments/assets/41bd6c36-2c7b-4971-973e-e64189482e92" />
+<img width="250" height="250" alt="Image" src="https://github.com/user-attachments/assets/41bd6c36-2c7b-4971-973e-e64189482e92" />
 # Project Learnings
 Interactive Dashboard Creation: Created an interactive dashboard that allows users to explore online sales data easily.
 Advanced Visualization Techniques: Implemented complex parameters, filters, and slicers to enable dynamic and detailed data exploration.
